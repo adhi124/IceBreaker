@@ -1,0 +1,3 @@
+Common coding mistakes:
+Repetition of code. Fixed issues, simplified code structure and replaced if-else blocks with switch statements where possible.
+Stopped adding onClick listeners to buttons individually. Implemented onclick interface and set listener to activity.
